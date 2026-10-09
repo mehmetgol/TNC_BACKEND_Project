@@ -1,0 +1,27 @@
+### 1. Tüm Görevleri Getir
+GET http://localhost:3000/api/tasks
+
+### 2. ID'si 1 Olan Görevi Getir
+GET http://localhost:3000/api/tasks/1
+
+### 3. Yeni Görev Ekle
+POST http://localhost:3000/api/tasks
+Content-Type: application/json
+
+{
+  "title": "Dokümantasyon Hazırla",
+  "projectId": "p1",
+  "assignedTo": "Mehmet",
+  "priority": "low"
+}
+
+### 4. Görevin Durumunu Güncelle (Statüyü done yap)
+PATCH http://localhost:3000/api/tasks/1
+Content-Type: application/json
+
+{
+  "status": "done"
+}
+
+### 5. Görevi Sil
+DELETE http://localhost:3000/api/tasks/1

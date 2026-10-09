@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Veritabanı Şeması Tasarımı",
+      "projectId": "p1",
+      "assignedTo": "Mehmet",
+      "status": "done",
+      "priority": "high",
+      "createdAt": "2026-09-19T10:00:00.000Z"
+    },
+    {
+      "id": "ae339094-ced6-4da8-bd21-a81a051757a1",
+      "title": "Dokümantasyon Hazırla",
+      "projectId": "p1",
+      "assignedTo": "Mehmet",
+      "status": "todo",
+      "priority": "low",
+      "createdAt": "2026-09-19T14:13:41.895Z"
+    },
+    {
+      "id": "e07471f8-b2c9-4372-a53f-ac2b4b54b2fb",
+      "title": "Dokümantasyon Hazırla",
+      "projectId": "p1",
+      "assignedTo": "Emre",
+      "status": "todo",
+      "priority": "low",
+      "createdAt": "2026-09-19T14:14:11.889Z"
+    },
+    {
+      "id": "9d4f5529-e34d-4beb-85c3-350b4163f7fa",
+      "title": "CampusOS API Testi",
+      "projectId": "p1",
+      "assignedTo": "Mehmet",
+      "status": "todo",
+      "priority": "high",
+      "createdAt": "2026-10-09T19:44:41.290Z"
+    }
+  ]
+}

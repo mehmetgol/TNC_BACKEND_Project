@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="78f7daad-1a8e-4d67-b3ba-a9fd9d08e29c" name="Changes" comment="initalcomit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "mehmetgol"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/mehmetgol/TNC_BACKEND_Project.git",
+    "accountId": "77c487b5-fdce-49be-af8a-82712ad2d027"
+  }
+}]]></component>
+  <component name="HttpClientOnboardingState">{
+  &quot;isOnboardingCommentShown&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3JY6C16LTnNNuAJbGhx7f3QHrjF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "HTTP Request.All in test.executor": "Run",
+    "HTTP Request.test | 1. Tüm Görevleri Getir.executor": "Run",
+    "HTTP Request.test | 2. ID'si 1 Olan Görevi Getir.executor": "Run",
+    "HTTP Request.test | 3. Yeni Görev Ekle.executor": "Run",
+    "HTTP Request.test | 4. Görevin Durumunu Güncelle (Statüyü done yap).executor": "Run",
+    "HTTP Request.test | 5. Görevi Sil.executor": "Run",
+    "HTTP Request.test | Bütün Görevleri Getir.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Node.js.server.js.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "javascript.nodejs.core.library.configured.version": "24.15.0",
+    "javascript.nodejs.core.library.typings.version": "24.13.6",
+    "javascript.preferred.runtime.type.id": "node",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationStatuses">
+      <map>
+        <entry key="HttpClient.HttpRequestRunConfigurationType">
+          <value>
+            <map>
+              <entry key="All in test" value="STOPPED" />
+              <entry key="test | 2. ID'si 1 Olan Görevi Getir" value="STOPPED" />
+              <entry key="test | 3. Yeni Görev Ekle" value="STOPPED" />
+              <entry key="test | 4. Görevin Durumunu Güncelle (Statüyü done yap)" value="STOPPED" />
+              <entry key="test | 5. Görevi Sil" value="STOPPED" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="RunManager" selected="HTTP Request.test | 3. Yeni Görev Ekle">
+    <configuration name="All in test" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/test.http">
+      <method v="2" />
+    </configuration>
+    <configuration name="test | 2. ID'si 1 Olan Görevi Getir" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/test.http" executionIdentifier="2. ID'si 1 Olan Görevi Getir" index="2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="test | 3. Yeni Görev Ekle" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/test.http" executionIdentifier="3. Yeni Görev Ekle" index="3" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="test | 4. Görevin Durumunu Güncelle (Statüyü done yap)" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/test.http" executionIdentifier="4. Görevin Durumunu Güncelle (Statüyü done yap)" index="4" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="test | 5. Görevi Sil" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/test.http" executionIdentifier="5. Görevi Sil" index="5" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.test | 2. ID'si 1 Olan Görevi Getir" />
+        <item itemvalue="HTTP Request.test | 3. Yeni Görev Ekle" />
+        <item itemvalue="HTTP Request.All in test" />
+        <item itemvalue="HTTP Request.test | 5. Görevi Sil" />
+        <item itemvalue="HTTP Request.test | 4. Görevin Durumunu Güncelle (Statüyü done yap)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-WS-261.24374.125" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78f7daad-1a8e-4d67-b3ba-a9fd9d08e29c" name="Changes" comment="" />
+      <created>1789825522779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789825522779</updated>
+      <workItem from="1789825523797" duration="1825000" />
+      <workItem from="1791574824269" duration="1877000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="inital_comit" />
+    <MESSAGE value="initalcomit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initalcomit" />
+  </component>
+</project>

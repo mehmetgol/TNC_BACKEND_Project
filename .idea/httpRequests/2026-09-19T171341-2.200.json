@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "message": "Görev güncellendi.",
+  "data": {
+    "id": "1",
+    "title": "Veritabanı Şeması Tasarımı",
+    "projectId": "p1",
+    "assignedTo": "Mehmet",
+    "status": "done",
+    "priority": "high",
+    "createdAt": "2026-09-19T10:00:00.000Z"
+  }
+}

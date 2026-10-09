@@ -1,0 +1,130 @@
+POST http://localhost:3000/api/tasks
+Content-Type: application/json
+Content-Length: 108
+User-Agent: IntelliJ HTTP Client/WebStorm 2026.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "title": "Dokümantasyon Hazırla",
+  "projectId": "p1",
+  "assignedTo": "Mehmet",
+  "priority": "low"
+}
+
+<> 2026-09-19T171411.201.json
+
+###
+
+PATCH http://localhost:3000/api/tasks/1
+Content-Type: application/json
+Content-Length: 22
+User-Agent: IntelliJ HTTP Client/WebStorm 2026.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "status": "done"
+}
+
+<> 2026-09-19T171341-2.200.json
+
+###
+
+POST http://localhost:3000/api/tasks
+Content-Type: application/json
+Content-Length: 108
+User-Agent: IntelliJ HTTP Client/WebStorm 2026.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "title": "Dokümantasyon Hazırla",
+  "projectId": "p1",
+  "assignedTo": "Mehmet",
+  "priority": "low"
+}
+
+<> 2026-09-19T171341.201.json
+
+###
+
+GET http://localhost:3000/api/tasks/1
+User-Agent: IntelliJ HTTP Client/WebStorm 2026.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2026-09-19T171341-1.200.json
+
+###
+
+GET http://localhost:3000/api/tasks
+User-Agent: IntelliJ HTTP Client/WebStorm 2026.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2026-09-19T171341.200.json
+
+###
+
+DELETE http://localhost:3000/api/tasks/1
+User-Agent: IntelliJ HTTP Client/WebStorm 2026.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2026-09-19T171047.200.json
+
+###
+
+PATCH http://localhost:3000/api/tasks/1
+Content-Type: application/json
+Content-Length: 22
+User-Agent: IntelliJ HTTP Client/WebStorm 2026.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "status": "done"
+}
+
+<> 2026-09-19T171041.200.json
+
+###
+
+GET http://localhost:3000/api/tasks/1
+User-Agent: IntelliJ HTTP Client/WebStorm 2026.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2026-09-19T171031.200.json
+
+###
+
+GET http://localhost:3000/api/tasks/1
+User-Agent: IntelliJ HTTP Client/WebStorm 2026.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2026-09-19T171026.200.json
+
+###
+
+GET http://localhost:3000/api/tasks
+User-Agent: IntelliJ HTTP Client/WebStorm 2026.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2026-09-19T171022.200.json
+
+###
+
+GET http://localhost:3000/api/tasks
+User-Agent: IntelliJ HTTP Client/WebStorm 2026.1.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2026-09-19T170749.200.json
+
+###
+
